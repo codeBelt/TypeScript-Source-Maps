@@ -1,0 +1,14 @@
+{
+    "name": "HTML5-Application",
+    "version": "0.1.0",
+    "description": "The Description",
+    "url": "",
+    "developedBy": "codeBelt",
+
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "matchdep": "~0.1.2",
+
+        "grunt-typescript": "~0.2.3"
+    }
+}
