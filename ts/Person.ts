@@ -14,7 +14,6 @@ module anothernamespace
         public getDescription():string
         {
             var obj:any = {};
-
             console.log(obj.property.anotherProperty);
 
             return this.name + " is " + this.age + " years old.";
